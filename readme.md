@@ -1,5 +1,4 @@
-#tf2-config
-
+# My TF2 cfg files
 So I don't have to worry about losing these
 
 **Launch Options**
