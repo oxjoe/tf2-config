@@ -2,9 +2,9 @@
 So I don't have to worry about losing these
 
 **Launch Options**
-*Note: If you alt tab in -nod3d9ex1, its harder to switch back*
+*Note: -nod3d9ex1 is fo mumble*
 
 ```
--dxlevel 91 -w 1366 -h 768 -fullscreen -novid -nod3d9ex1
+-w 1920 -h 1080 -fullscreen -novid
 ```
 
