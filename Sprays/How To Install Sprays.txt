@@ -1,0 +1,13 @@
+1. Copy the ".vtf" file over to your computer and place it anywhere preferably on your Desktop
+2. Start TF2
+3. Click on Options > Multiplayer
+4. Underneath "Spraypaint image", click on "Import Spray..."
+5. Import the ".vtf" file you copied over
+5a. If the preview of the spray appears to be either flashing, or black, that doesn't exactly mean it's not working, you'll need to try it in game to find out. 
+6. Click "Apply" then "OK" in the bottom right
+7. Your done!
+
+Note: You can delete the ".vtf" file you copied to your Desktop, as once you import it, TF2 makes and stores a copy of it.
+*Note: The speed of it is a restriction of the Source engine, unfortunately there is no way around that at this time. 
+
+credits: http://steamcommunity.com/sharedfiles/filedetails/?id=121269706#10920
